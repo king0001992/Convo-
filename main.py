@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>😈 PIYUSH 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
+  <title>😈 SUFYAN 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/19kSMz4/In-Shot-20241121-173358587.jpg');
+      background-image: url('https://i.ibb.co/1Y1fq0yV/afb7b384c9392e422c4ad060251ea00e.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🥀🩷 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃  PIYUSH 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈🐧</h1>
+    <h1 class="mt-3">🥀🩷 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 SUFYAN 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈🐧</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 PIYUSH✌️😈🐧</p>
-    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 PIYUSH🔥😈 <a href="https://www.facebook.com/profile.php?id=61554673127359&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2025 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 SUFYAN ✌️😈🐧</p>
+    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 SUFYAN🔥😈 <a href="https://www.facebook.com/profile.php?id=100001623738320&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917543864229" class="whatsapp-link">
+      <a href="https://wa.me/+333" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
